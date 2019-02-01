@@ -1,2 +1,2 @@
-# Lesson_4_dictionary_sets_reading_and_writing_files
+# Lesson 4: Dictionary, Sets, Reading and writing files
 Agenda 26-02-2019
