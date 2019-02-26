@@ -18,6 +18,7 @@ Agenda 26-02-2019
 
 ### Suplementary reading
 * [Dictionaries in Python](https://realpython.com/python-dicts/)
+* [Reading and Writing Files in Python (Guide)](https://realpython.com/read-write-files-python/)
 
 ## Exercises
 * [words.py](exercises/words.py)

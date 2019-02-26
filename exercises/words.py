@@ -42,6 +42,23 @@ import sys
 # Then print_words() and print_top() can just call the utility function.
 
 ###
+def helper(filename):
+  file = open(filename, 'r')
+  text = file.read()
+
+  words = {}
+  # put every word into a dict as key and a number (count) as value
+  # if the word are already in the dict then increment the count
+
+  return words
+
+
+
+def print_words(filename):
+  words = helper(filename)
+
+def print_top(filename):
+  pass
 
 # This basic command line argument parsing code is provided and
 # calls the print_words() and print_top() functions which you must define.
