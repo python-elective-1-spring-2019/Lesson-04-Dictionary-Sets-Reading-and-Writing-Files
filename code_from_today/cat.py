@@ -2,7 +2,14 @@ import sys
 
 
 def cat(filename):
-    pass
+    file_object = open(filename, 'r')
+    
+    text = file_object.read()
+    print(text)
+
+    #for line in file_object:
+    #    print(line, end='')    
+
 
 
 def main():
