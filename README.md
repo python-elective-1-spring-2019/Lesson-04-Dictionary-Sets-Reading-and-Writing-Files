@@ -16,7 +16,7 @@ Agenda 26-02-2019
 * [file object](https://docs.python.org/3/glossary.html#term-file-object)
 
 
-### Suplementary reading
+### Supplementary reading
 * [Dictionaries in Python](https://realpython.com/python-dicts/)
 * [Reading and Writing Files in Python (Guide)](https://realpython.com/read-write-files-python/)
 
